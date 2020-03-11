@@ -71,8 +71,11 @@ https://nimbleserver.canais.ink/a/hls1/recordnews.m3u8?expires=1583990477&token=
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="CANAIS ABERTOS",DISNEY CHANNEL
 https://nimbleserver.canais.ink/a/hls1/disney.m3u8?expires=1583990561&token=0674032373de2a1efbc6471afd831e32
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu" group-title="CANAIS ABERTOS",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu" group-title="DOCUMENTÁRIO",ANIMAL PLANET
 https://nimbleserver.canais.ink/a/hls1/animalplanet.m3u8?expires=1583990615&token=b126332ddf547c37e7aa6a23ee969265
+
+EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu"  group-title="DOCUMENTÁRIO",ANIMAL PLANET FHD
+http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
 
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/EMlud1a9CMVWCUmzq1Es31XoxV2RgbEKKSvp37FcqqlL-XO5IFHhMuuZzrDuid8Kgdro3tRId2Hnl2p0JcanIIMiaRKRyrKxLWr5mk4-Ud4Q5I6WB7kSFSbkPMx9zZkcOnNk5Fc" group-title="CANAIS ABERTOS",MULTISHOW
@@ -187,6 +190,30 @@ https://nimbleserver.canais.ink/a/hls1/foxsports1.m3u8?expires=1583994258&token=
 
 #EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ya-webdesign.com%2Fimages%2Ffox-sports-2-logo-png-3.png&imgrefurl=https%3A%2F%2Fya-webdesign.com%2Fexplore%2Ffox-sports-2-logo-png%2F&tbnid=PdruYpp-ZEksjM&vet=12ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ..i&docid=YqfE8B3imAYisM&w=600&h=420&q=FOX%20SPORTS%202%20LOGO&ved=2ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ" group-title="CANAIS ABERTOS",FOX SPORTS 2
 https://nimbleserver.canais.ink/a/hls1/foxsports2.m3u8?expires=1583994379&token=35b72c81e7c6e0be1376dd43c1991fa0
+
+
+
+EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Chuveiro
+http://lb.kstream.org/aovivo/HD_BBB_CHUVEIRO/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Confessionario
+http://lb.kstream.org/aovivo/HD_BBB_CONFESSIONARIO/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Cozinha VIP
+http://lb.kstream.org/aovivo/HD_BBB_COZINHA_VIP/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Cozinha Xepa
+http://lb.kstream.org/aovivo/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Piscina
+http://lb.kstream.org/aovivo/HD_BBB_PISCINA/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Principal
+http://lb.kstream.org/aovivo/HD_BBB/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Principal 2
+http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Quarto Ceu
+http://lb.kstream.org/aovivo/HD_BBB_QUARTO_CEU/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Quarto Vila
+http://lb.kstream.org/aovivo/HD_BBB_QUARTO_VILA/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="ENTRETENIMENTO", BBB: Sala de Estar
+http://lb.kstream.org/aovivo/HD_BBB_SALA_ESTAR/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+
 
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
 XXXXXXX
