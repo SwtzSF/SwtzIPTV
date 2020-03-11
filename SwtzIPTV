@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT SP
-https://www.youtube.com/watch?v=HPUURwD1p5U
+https://live.multicanais.com/live/globosphd/video.m3u8?md5=5WMvjeNq_qVVT0zP7AFlPQ&expires=1583956096
 
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
 https://youtu.be/HPUURwD1p5U
