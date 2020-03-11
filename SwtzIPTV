@@ -105,8 +105,42 @@ https://nimbleserver.canais.ink/a/hls1/universal.m3u8?expires=1583991661&token=a
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="CANAIS ABERTOS",DISNEY JR
 https://nimbleserver.canais.ink/a/hls1/disneyjunior.m3u8?expires=1583991740&token=348319e11ff62cacc18059cd7160836c
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title="CANAIS ABERTOS",BAND NEWS
+https://nimbleserver.canais.ink/a/hls1/bandnews.m3u8?expires=1583991801&token=fdc2286849a847e9a0dbf40befaf816e
+
+#EXTINF:-1 tvg-logo="https://cosmonerd.com.br//uploads/2017/09/nat-geo-wild.png" group-title="CANAIS ABERTOS",NAT GEO WILD
+https://nimbleserver.canais.ink/a/hls1/natgeowild.m3u8?expires=1583991861&token=ec3d72f24994897d836f80908de7824c
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="CANAIS ABERTOS",DISNEY XD
+https://nimbleserver.canais.ink/a/hls1/disneyxd.m3u8?expires=1583991909&token=287bf73fc1d7548ab0d704ec7e4b6afe
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/miraculousladybug/images/a/ac/Logo_gloob_fundobranco_500x500.jpg/revision/latest?cb=20180329211603&path-prefix=pt-br" group-title="CANAIS ABERTOS",GLOOB
+https://nimbleserver.canais.ink/a/hls1/gloob.m3u8?expires=1583991972&token=d7388276db26bda5555cfeb14cda0072
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq0FEW66s-DlEkkYwY5ivbY116ebHBm-WiJrh9lKZqvW9SwPMT" group-title="CANAIS ABERTOS",NICK JR
+https://nimbleserver.canais.ink/a/hls1/nickjr.m3u8?expires=1583992028&token=c4698053e1a84015ff4cf10cd2e7bdcb
+
+
+#EXTINF:-1 tvg-logo="https://www.chickletmarketing.com/wp-content/uploads/2016/04/Syfy-Logo.png" group-title="CANAIS ABERTOS",SYFY
+https://nimbleserver.canais.ink/a/hls1/syfy.m3u8?expires=1583992229&token=f78c0c5dc8f626a03aad41d3ef1ad580
+
+#EXTINF:-1 tvg-logo="https://arabianmarketer.ae/wp-content/uploads/2018/01/NatGeo-Kids.png" group-title="CANAIS ABERTOS",NAT GEO KIDS
+https://nimbleserver.canais.ink/a/hls1/natgeokids.m3u8?expires=1583992345&token=337de94f58fa9bb164fc9840ece985ec
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="CANAIS ABERTOS",SONY
+https://nimbleserver.canais.ink/a/hls1/sony.m3u8?expires=1583992420&token=8fee1bb57c12b20cb1af8b10933d6d27
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="CANAIS ABERTOS",DISCOVERY CIVILIZATION
+https://nimbleserver.canais.ink/a/hls1/discoverycivilization.m3u8?expires=1583992481&token=3c581bf53c6661d2fbe58e84e41b989c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="CANAIS ABERTOS",TELECINE CULT
+https://nimbleserver.canais.ink/a/hls1/telecinecult.m3u8?expires=1583992546&token=317a2647f032faecee2fe47f7166c8f0
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="CANAIS ABERTOS",DISCOVERY WORLD
+https://nimbleserver.canais.ink/a/hls1/discoveryworld.m3u8?expires=1583992605&token=656131f890b6d5a4dee73107586b39d2
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180719/yxf/kisspng-food-network-high-definition-television-logo-claro-diet-5b5080529c2fa0.3642904715320023866398.jpg" group-title="CANAIS ABERTOS",FOOD NETWORK
+https://nimbleserver.canais.ink/a/hls1/foodnetwork.m3u8?expires=1583992657&token=894094e764d894c6ee548c198cb24a04
 
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
 https://youtu.be/HPUURwD1p5U
@@ -120,14 +154,6 @@ https://youtu.be/HPUURwD1p5U
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
 https://youtu.be/HPUURwD1p5U
 
-
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
 https://youtu.be/HPUURwD1p5U
-
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
-
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
-
 
