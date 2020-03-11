@@ -2,12 +2,54 @@
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT SP
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1583976772/ei/4zxpXsGtO5O8wgSaiKLABQ/ip/177.73.78.197/id/9z_8k1Ir-6U.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/br/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIgGbzqAMhRcfahPW8_L9_-i1HP3wmPNI8ZMGGL3l-2Ts8CIQDYx6TuU55Eso7pWOt2Pl1i8v4T02vhoqzzkJ8Jlw28ZQ%3D%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",TV CULTURA 
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="CANAIS ABERTOS",TV CARIOCA
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w447365844.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg" group-title="CANAIS ABERTOS",BLOOMBERG
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/03d88a60f0cf172644a901ff2487d5a0.png" group-title="CANAIS ABERTOS",ABC NEWS
+https://content-asae1-up-3.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=5f6fd29479a3494e8db1b1fd37b101e7&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3D5f6fd294-79a3-494e-8db1-b1fd37b101e7%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=43ed50bb007d46dbadcc2bf484372eae
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS ABERTOS",VIA MORENA
+https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w1348892800.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b885dddf8d0e990d24c4a3fae05c4194.png" group-title="CANAIS ABERTOS",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="CANAIS ABERTOS",TV REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="CANAIS ABERTOS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="CANAIS ABERTOS",BAND MT
+https://video01.kshost.com.br/rba2779/rba2779/chunklist_w686089874.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9f4c88da968810f5c45fef944578a93d.jpg" group-title="CANAIS ABERTOS",TV SERRA DOURADA
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist_w1061167067_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/31032afb0ddcda240d10e0de80793302.png" group-title="CANAIS ABERTOS",TV BRASIL 2
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1befb90f9239e56464aba56daea6cd27.png" group-title="CANAIS ABERTOS",REDE BRASIL TV
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w783002532_b1096000.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO
+http://200.189.113.201/hls/tve.m3u8
+
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
 https://youtu.be/HPUURwD1p5U
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RS
-https://www.youtube.com/embed/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
+https://youtu.be/HPUURwD1p5U
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/z07y5" group-title=" ",NOME
-http://u9in.club:8080/rvzw340z/rvzw340z/32117
+
+
 
