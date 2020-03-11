@@ -158,14 +158,40 @@ https://nimbleserver.canais.ink/a/hls1/warner.m3u8?expires=1583992942&token=25a8
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="CANAIS ABERTOS",STUDIO UNIVERSAL
 https://nimbleserver.canais.ink/a/hls1/studiouniversal.m3u8?expires=1583993016&token=27d29a63f17b7099c9fda0e5591068e3
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS ABERTOS",SPORT TV
+https://nimbleserver.canais.ink/a/hls1/premiereclubes.m3u8?expires=1583993607&token=b159134b186860c2277cdcf0751fa79a
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS ABERTOS",SPORT TV V2
+https://nimbleserver.canais.ink/a/hls1/sportv1.m3u8?expires=1583993715&token=79ae73931b33d6a0e84baeb05e7af7eb
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="CANAIS ABERTOS",SPORT TV 2
+https://nimbleserver.canais.ink/a/hls1/sportv2.m3u8?expires=1583993759&token=54369f354de9a90161193e42f5e6509b
 
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",SBT RIO
-https://youtu.be/HPUURwD1p5U
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="CANAIS ABERTOS",ESPN 2
+https://nimbleserver.canais.ink/a/hls1/espn2.m3u8?expires=1583993872&token=d50735f84f14dbc93d9b833a08ea64aa
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="CANAIS ABERTOS",ESPN 
+https://nimbleserver.canais.ink/a/hls1/espnbrasil.m3u8?expires=1583993977&token=94b80471763d3bb97e80bf16dcfb11f9
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS ABERTOS",PREMIERE
+https://nimbleserver.canais.ink/a/hls1/premiereclubes.m3u8?expires=1583994095&token=8594a5c81cc6c603ea3532c97551e47e
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS ABERTOS",PREMIERE 2
+https://nimbleserver.canais.ink/a/hls1/premiere2.m3u8?expires=1583994143&token=d709faf318aa1bee9a76b8331279d7f9
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS ABERTOS",PREMIERE 3
+https://nimbleserver.canais.ink/a/hls1/premiere3.m3u8?expires=1583994195&token=e6475dc1513ee87cb030164e2cc54f44
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="CANAIS ABERTOS",FOX SPORTS
+https://nimbleserver.canais.ink/a/hls1/foxsports1.m3u8?expires=1583994258&token=400ad3757aeeb53447e3b67e9f1bf987
+
+#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ya-webdesign.com%2Fimages%2Ffox-sports-2-logo-png-3.png&imgrefurl=https%3A%2F%2Fya-webdesign.com%2Fexplore%2Ffox-sports-2-logo-png%2F&tbnid=PdruYpp-ZEksjM&vet=12ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ..i&docid=YqfE8B3imAYisM&w=600&h=420&q=FOX%20SPORTS%202%20LOGO&ved=2ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ" group-title="CANAIS ABERTOS",FOX SPORTS 2
+https://nimbleserver.canais.ink/a/hls1/foxsports2.m3u8?expires=1583994379&token=35b72c81e7c6e0be1376dd43c1991fa0
+
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
+XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
+XXXXXXX
+
+
