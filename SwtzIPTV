@@ -20,8 +20,6 @@ http://tv.factoryiptv.com:80/erick25/erick25/42903
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="CANAIS ABERTOS",TV CARIOCA
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w447365844.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8723549258a42a5f239e16317cee4371.jpg" group-title="ENTRETENIMENTO",BLOOMBERG
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c8898d67f9797c54514ec24edd8098ef.jpg" group-title="CANAIS ABERTOS",VIA MORENA
 https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w1348892800.m3u8
@@ -32,11 +30,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4bde8a9c788e4ae4b2d76359d0889963.jpg" group-title="CANAIS ABERTOS",TV REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/2/28/Cartoonnet.jpg/revision/latest?cb=20180801233705&path-prefix=pt-br" group-title="CANAIS ABERTOS",CARTOON NETWORK
-https://nimbleserver.canais.ink/a/hls1/cartoon.m3u8?expires=1583989767&token=2d9e2e07ba075287efe89499dab8aa0a
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/301f06c166156f3e5234ee0b6231b9a0.png" group-title="CANAIS ABERTOS",RED BULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="CANAIS ABERTOS",BAND MT
 https://video01.kshost.com.br/rba2779/rba2779/chunklist_w686089874.m3u8
@@ -52,161 +45,9 @@ https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w783002532_b1096000.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6788ade239f63ac5f8262c188729285c.jpg" group-title="CANAIS ABERTOS",TV PARANÁ TURISMO
-http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fhbo.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhbo&tbnid=YWf1ot9-XmoU0M&vet=12ahUKEwjo8-CZq5PoAhVWA7kGHWb-AGsQMygDegUIARDyAQ..i&docid=WDArmgnqNBJPUM&w=2500&h=2500&q=HBO%20LOGO&ved=2ahUKEwjo8-CZq5PoAhVWA7kGHWb-AGsQMygDegUIARDyAQ" group-title="ENTRETENIMENTO",HBO
-https://nimbleserver.canais.ink/a/hls1/hbo.m3u8?expires=1583989976&token=38211e920c1c49385061108d32b94c11
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Fhbo.svg&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fhbo&tbnid=YWf1ot9-XmoU0M&vet=12ahUKEwjo8-CZq5PoAhVWA7kGHWb-AGsQMygDegUIARDyAQ..i&docid=WDArmgnqNBJPUM&w=2500&h=2500&q=HBO%20LOGO&ved=2ahUKEwjo8-CZq5PoAhVWA7kGHWb-AGsQMygDegUIARDyAQ" group-title="ENTRETENIMENTO",HBO 2
-https://nimbleserver.canais.ink/a/hls1/hbo2.m3u8?expires=1583990696&token=4096ca11d0e4f435418e0503380ba778
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/espalhafactos.com/wp-content/uploads/2014/09/logo-FOX-1024x819.jpg?resize=759%2C500&ssl=1" group-title="ENTRETENIMENTO",FOX
-https://nimbleserver.canais.ink/a/hls1/fox.m3u8?expires=1583990167&token=ee04bcebf01d0497e4ff451832ef842d
-
-#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/nick-nickelodeon-logo.jpg?w=1000" group-title="INFANTIL",NICKELODEON
-https://nimbleserver.canais.ink/a/hls1/nick.m3u8?expires=1583990248&token=07754a57cc450d3c732d7d9bef4a93ed
-
-#EXTINF:-1 tvg-logo="https://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png" group-title="ENTRETENIMENTO",HISTORY CHANNEL
-https://nimbleserver.canais.ink/a/hls1/history.m3u8?expires=1583990417&token=c4baa3969588c170eb316360f16fddad
-
-#EXTINF:-1 tvg-logo="https://midia.gruposinos.com.br/_midias/png/2016/03/15/history_channel_logo-1375411.png" group-title="ENTRETENIMENTO",HISTORY CHANNEL 2
-https://nimbleserver.canais.ink/a/hls1/history2.m3u8?expires=1583990916&token=c5b6b6e4252d7c980f423b3024bdc2e2
-
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1764944016/recnews_400x400.png" group-title="CANAIS ABERTOS",RECORD NEWS 
 https://nimbleserver.canais.ink/a/hls1/recordnews.m3u8?expires=1583990477&token=3b2fc199f640e214aace392af6d0164c
 
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112015/disney_channel_0.png?itok=2y1CSwfM" group-title="INFANTIL",DISNEY CHANNEL
-https://nimbleserver.canais.ink/a/hls1/disney.m3u8?expires=1583990561&token=0674032373de2a1efbc6471afd831e32
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu" group-title="ENTRETENIMENTO",ANIMAL PLANET
-https://nimbleserver.canais.ink/a/hls1/animalplanet.m3u8?expires=1583990615&token=b126332ddf547c37e7aa6a23ee969265
-
-EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_236.png?itok=YNJX_tQu"  group-title="ENTRETENIMENTO",ANIMAL PLANET FHD
-http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/EMlud1a9CMVWCUmzq1Es31XoxV2RgbEKKSvp37FcqqlL-XO5IFHhMuuZzrDuid8Kgdro3tRId2Hnl2p0JcanIIMiaRKRyrKxLWr5mk4-Ud4Q5I6WB7kSFSbkPMx9zZkcOnNk5Fc" group-title="INFANTIL",MULTISHOW
-https://nimbleserver.canais.ink/a/hls1/multishow.m3u8?expires=1583990794&token=82bdffc2978bff9591d83aa6d470d4da
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="INFANTIL",DISCOVERY KIDS
-https://nimbleserver.canais.ink/a/hls1/discoverykids.m3u8?expires=1583991109&token=3a4e664744307bfadd61ce3a0020180a
-
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ENTRETENIMENTO",HBO PLUS 
-https://nimbleserver.canais.ink/a/hls1/hboplus.m3u8?expires=1583991184&token=63653d8bb93037fc5beee515f7018ed6
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcR0hOq4dmUzRzNZQsQVnN2tGtblZHQF5bRBpv8bdkHS4zvAUC" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-https://nimbleserver.canais.ink/a/hls1/discoveryturbo.m3u8?expires=1583991309&token=2baedd22e3de2d713ac299c577866c7f
-
-#EXTINF:-1 tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.ngsversion.1474040243902.adapt.1900.1.jpg" group-title="ENTRETENIMENTO",NATIONAL GEOGRAPHIC CHANNEL
-https://nimbleserver.canais.ink/a/hls1/natgeo.m3u8?expires=1583991396&token=0e5c12e46fe249f743a456d06a82483b
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/globonews-novamarca-mat01112017_ecc36a2c6ac19a7c7217527ac8719ab364361da5.jpeg" group-title="CANAIS ABERTOS",GLOBO NEWS
-https://nimbleserver.canais.ink/a/hls1/globonews.m3u8?expires=1583991502&token=f6369a95086ec18b85f72a14ef25983f
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ENTRETENIMENTO",HBO FAMILY
-https://nimbleserver.canais.ink/a/hls1/hbofamily.m3u8?expires=1583991561&token=0eb4496b86df55ee3ea2d934078a9b31
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",BOOMERANG
-https://nimbleserver.canais.ink/a/hls1/boomerang.m3u8?expires=1583991604&token=12d3089ef5a5f720b62e7a6f698137b0
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/-POlRdZ0jU-7bM4lxMdNl0fUv1s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/8d/59/d7105ab48032cce61c4ddaed535e.png" group-title="ENTRETENIMENTO",UNIVERSAL CHANNEL
-https://nimbleserver.canais.ink/a/hls1/universal.m3u8?expires=1583991661&token=a830a1dfa73f5d9bce3da19c3f92bc0c
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" group-title="INFANTIL",DISNEY JR
-https://nimbleserver.canais.ink/a/hls1/disneyjunior.m3u8?expires=1583991740&token=348319e11ff62cacc18059cd7160836c
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/agiliza.nextel.com.br/wp-content/uploads/2019/11/bandnews-tv-arte-1-jornal-da-band-990x556.jpg?fit=990%2C556&ssl=1" group-title="CANAIS ABERTOS",BAND NEWS
-https://nimbleserver.canais.ink/a/hls1/bandnews.m3u8?expires=1583991801&token=fdc2286849a847e9a0dbf40befaf816e
-
-#EXTINF:-1 tvg-logo="https://cosmonerd.com.br//uploads/2017/09/nat-geo-wild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-https://nimbleserver.canais.ink/a/hls1/natgeowild.m3u8?expires=1583991861&token=ec3d72f24994897d836f80908de7824c
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2DK2OYQmSB4/maxresdefault.jpg" group-title="INFANTIL",DISNEY XD
-https://nimbleserver.canais.ink/a/hls1/disneyxd.m3u8?expires=1583991909&token=287bf73fc1d7548ab0d704ec7e4b6afe
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/miraculousladybug/images/a/ac/Logo_gloob_fundobranco_500x500.jpg/revision/latest?cb=20180329211603&path-prefix=pt-br" group-title="INFANTIL",GLOOB
-https://nimbleserver.canais.ink/a/hls1/gloob.m3u8?expires=1583991972&token=d7388276db26bda5555cfeb14cda0072
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSq0FEW66s-DlEkkYwY5ivbY116ebHBm-WiJrh9lKZqvW9SwPMT" group-title="INFANTIL",NICK JR
-https://nimbleserver.canais.ink/a/hls1/nickjr.m3u8?expires=1583992028&token=c4698053e1a84015ff4cf10cd2e7bdcb
-
-
-#EXTINF:-1 tvg-logo="https://www.chickletmarketing.com/wp-content/uploads/2016/04/Syfy-Logo.png" group-title="ENTRETENIMENTO",SYFY
-https://nimbleserver.canais.ink/a/hls1/syfy.m3u8?expires=1583992229&token=f78c0c5dc8f626a03aad41d3ef1ad580
-
-#EXTINF:-1 tvg-logo="https://arabianmarketer.ae/wp-content/uploads/2018/01/NatGeo-Kids.png" group-title="ENTRETENIMENTO",NAT GEO KIDS
-https://nimbleserver.canais.ink/a/hls1/natgeokids.m3u8?expires=1583992345&token=337de94f58fa9bb164fc9840ece985ec
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sony_Channel_logo.svg/902px-Sony_Channel_logo.svg.png" group-title="ENTRETENIMENTO",SONY
-https://nimbleserver.canais.ink/a/hls1/sony.m3u8?expires=1583992420&token=8fee1bb57c12b20cb1af8b10933d6d27
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xDR9E6uDt7A/XNhOPLuM5yI/AAAAAAAAT3E/rO2-hV3Cqos-MTOSPK-4wcxPtjx30IbcQCLcBGAs/s1600/discoverycivilizationb.png" group-title="ENTRETENIMENTO",DISCOVERY CIVILIZATION
-https://nimbleserver.canais.ink/a/hls1/discoverycivilization.m3u8?expires=1583992481&token=3c581bf53c6661d2fbe58e84e41b989c
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Telecine_Cult.png" group-title="ENTRETENIMENTO",TELECINE CULT
-https://nimbleserver.canais.ink/a/hls1/telecinecult.m3u8?expires=1583992546&token=317a2647f032faecee2fe47f7166c8f0
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_discovery-world-hd_m.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-https://nimbleserver.canais.ink/a/hls1/discoveryworld.m3u8?expires=1583992605&token=656131f890b6d5a4dee73107586b39d2
-
-#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180719/yxf/kisspng-food-network-high-definition-television-logo-claro-diet-5b5080529c2fa0.3642904715320023866398.jpg" group-title="ENTRETENIMENTO",FOOD NETWORK
-https://nimbleserver.canais.ink/a/hls1/foodnetwork.m3u8?expires=1583992657&token=894094e764d894c6ee548c198cb24a04
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="ENTRETENIMENTO",TELECINE PIPOCA
-https://nimbleserver.canais.ink/a/hls1/telecinepipoca.m3u8?expires=1583992774&token=a741af552672b514ffdcaf6880c7ed50
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Telecine_Fun_2.png" group-title="ENTRETENIMENTO",TELECINE FUN
-https://nimbleserver.canais.ink/a/hls1/telecinefun.m3u8?expires=1583992846&token=4461d8726b752ddbf06df21db6d226f8
-
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ENTRETENIMENTO",TNT
-https://nimbleserver.canais.ink/a/hls1/tnt.m3u8?expires=1583992894&token=f9bd61652869f5862792809162d12ba8
-
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="ENTRETENIMENTO",WARNER TV
-https://nimbleserver.canais.ink/a/hls1/warner.m3u8?expires=1583992942&token=25a8c05ed3ce02592d8353a9ac29aabb
-
-
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-57-canal-studio-universal.png" group-title="ENTRETENIMENTO",STUDIO UNIVERSAL
-https://nimbleserver.canais.ink/a/hls1/studiouniversal.m3u8?expires=1583993016&token=27d29a63f17b7099c9fda0e5591068e3
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTES",SPORT TV
-https://nimbleserver.canais.ink/a/hls1/premiereclubes.m3u8?expires=1583993607&token=b159134b186860c2277cdcf0751fa79a
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTES",SPORT TV V2
-https://nimbleserver.canais.ink/a/hls1/sportv1.m3u8?expires=1583993715&token=79ae73931b33d6a0e84baeb05e7af7eb
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTES",SPORT TV 2
-https://nimbleserver.canais.ink/a/hls1/sportv2.m3u8?expires=1583993759&token=54369f354de9a90161193e42f5e6509b
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPORTES",ESPN 2
-https://nimbleserver.canais.ink/a/hls1/espn2.m3u8?expires=1583993872&token=d50735f84f14dbc93d9b833a08ea64aa
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/94/07/fa/9407fa33a1873b022ed3169d51ea6aff.png" group-title="ESPORTES",ESPN 
-https://nimbleserver.canais.ink/a/hls1/espnbrasil.m3u8?expires=1583993977&token=94b80471763d3bb97e80bf16dcfb11f9
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE
-https://nimbleserver.canais.ink/a/hls1/premiereclubes.m3u8?expires=1583994095&token=8594a5c81cc6c603ea3532c97551e47e
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 2
-https://nimbleserver.canais.ink/a/hls1/premiere2.m3u8?expires=1583994143&token=d709faf318aa1bee9a76b8331279d7f9
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTES",PREMIERE 3
-https://nimbleserver.canais.ink/a/hls1/premiere3.m3u8?expires=1583994195&token=e6475dc1513ee87cb030164e2cc54f44
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",FOX SPORTS
-https://nimbleserver.canais.ink/a/hls1/foxsports1.m3u8?expires=1583994258&token=400ad3757aeeb53447e3b67e9f1bf987
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ya-webdesign.com%2Fimages%2Ffox-sports-2-logo-png-3.png&imgrefurl=https%3A%2F%2Fya-webdesign.com%2Fexplore%2Ffox-sports-2-logo-png%2F&tbnid=PdruYpp-ZEksjM&vet=12ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ..i&docid=YqfE8B3imAYisM&w=600&h=420&q=FOX%20SPORTS%202%20LOGO&ved=2ahUKEwiJg5Kmu5PoAhXWILkGHYvbBjAQMygHegUIARD1AQ" group-title="ESPORTES",FOX SPORTS 2
-https://nimbleserver.canais.ink/a/hls1/foxsports2.m3u8?expires=1583994379&token=35b72c81e7c6e0be1376dd43c1991fa0
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO" Cinemax FHD
-http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO" Cinemax HD
-http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
 
 EXTINF:-1 group-title="PROGRAMAS 24H",Pegadinha Silvio Santos
 http://vipeiptv.com:25461/palmeiras/palmeiras/758585
@@ -249,12 +90,6 @@ http://tv.factoryiptv.com:80/erick25/erick25/41517
 
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS ABERTOS",Canção Nova HD
 http://tv.factoryiptv.com:80/erick25/erick25/37023
-
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
-XXXXXXX
-
-#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
-XXXXXXX
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
 http://tv.factoryiptv.com:80/erick25/erick25/40248
@@ -425,3 +260,10 @@ http://tv.factoryiptv.com:80/erick25/erick25/63210
 
 EXTINF:-1 group-title="PROGRAMAS 24H",Pokemon 24HS
 http://tv.factoryiptv.com:80/erick25/erick25/63211
+
+
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
+XXXXXXX
+
+#EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
+XXXXXXX
