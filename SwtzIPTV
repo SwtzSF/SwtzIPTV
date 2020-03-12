@@ -5,8 +5,17 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1583976772/ei/4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",GLOBO NORDESTE
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",GLOBO[4K]
+http://tv.factoryiptv.com:80/erick25/erick25/43430
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",TV CULTURA 
 https://nimbleserver.canais.ink/a/hls1/bobonordeste.m3u8?expires=1583989473&token=258f9fcc8bc76323dcdbe9c7c70cc56e
+
+EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",Cultura
+http://tv.factoryiptv.com:80/erick25/erick25/40073
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",Cultura FHD
+http://tv.factoryiptv.com:80/erick25/erick25/42903
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="CANAIS ABERTOS",TV CARIOCA
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w447365844.m3u8
@@ -193,48 +202,53 @@ https://nimbleserver.canais.ink/a/hls1/foxsports2.m3u8?expires=1583994379&token=
 
 
 
-EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Chuveiro
-http://lb.kstream.org/aovivo/HD_BBB_CHUVEIRO/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Confessionario
-http://lb.kstream.org/aovivo/HD_BBB_CONFESSIONARIO/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Cozinha VIP
-http://lb.kstream.org/aovivo/HD_BBB_COZINHA_VIP/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Cozinha Xepa
-http://lb.kstream.org/aovivo/HD_BBB_COZINHA_CAMAROTE/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Piscina
-http://lb.kstream.org/aovivo/HD_BBB_PISCINA/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Principal
-http://lb.kstream.org/aovivo/HD_BBB/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Principal 2
-http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Quarto Ceu
-http://lb.kstream.org/aovivo/HD_BBB_QUARTO_CEU/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Quarto Vila
-http://lb.kstream.org/aovivo/HD_BBB_QUARTO_VILA/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2018%2F04%2Fbbb-logo-big-brother-brasil-logo.png&imgrefurl=https%3A%2F%2Flogodownload.org%2Fbbb-logo-big-brother-brasil-logo%2F&tbnid=c78A3-PKVsbHbM&vet=12ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ..i&docid=hMiucKCOd3H8RM&w=3500&h=1429&q=BBB%2020%20LOGO&ved=2ahUKEwiDh_PIvJPoAhWfBLkGHSO0DQAQMygCegUIARDeAQ" group-title="BIGBB", BBB: Sala de Estar
-http://lb.kstream.org/aovivo/HD_BBB_SALA_ESTAR/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO",Cinemax
-http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO" Cinemax FHD
 http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO" Cinemax HD
 http://lb.kstream.org/aovivo/HD_CINEMAX/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNuR8EB2tQ9lK9_5DAocUNjAsSUBJx4kIbQQ1JsGYcxonbxftr" group-title="ENTRETENIMENTO" Cinemax HD [Alter]
-http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=836bf1d0f5e94a872640226e7f0434c1
+EXTINF:-1 group-title="PROGRAMAS 24H",Pegadinha Silvio Santos
+http://vipeiptv.com:25461/palmeiras/palmeiras/758585
+
+EXTINF:-1 group-title="PROGRAMAS 24H",To de Graça
+http://vipeiptv.com:25461/palmeiras/palmeiras/758579
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Chaves
+http://vipeiptv.com:25461/palmeiras/palmeiras/758580
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 1
+http://vipeiptv.com:25461/palmeiras/palmeiras/758573
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 2
+http://vipeiptv.com:25461/palmeiras/palmeiras/758574
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 3
+http://vipeiptv.com:25461/palmeiras/palmeiras/758575
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 4
+http://vipeiptv.com:25461/palmeiras/palmeiras/758576
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 6
+http://vipeiptv.com:25461/palmeiras/palmeiras/758578
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pronto Socorro Historia de Emergencia
+http://vipeiptv.com:25461/palmeiras/palmeiras/758582
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Vai que Cola
+http://vipeiptv.com:25461/palmeiras/palmeiras/26590
+
+EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS
+http://vipeiptv.com:25461/palmeiras/palmeiras/26588
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS",Canal Brasil
+http://tv.factoryiptv.com:80/erick25/erick25/37122
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS", Canal Brasil FHD
+http://tv.factoryiptv.com:80/erick25/erick25/41517
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS ABERTOS",Canção Nova HD
+http://tv.factoryiptv.com:80/erick25/erick25/37023
 
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
 XXXXXXX
@@ -242,4 +256,172 @@ XXXXXXX
 #EXTINF:-1 tvg-logo="http://u1o.xyz/zMq5H" group-title="CANAIS ABERTOS",XXXXXXXXXXXXX
 XXXXXXX
 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
+http://tv.factoryiptv.com:80/erick25/erick25/40248
 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão
+http://tv.factoryiptv.com:80/erick25/erick25/40514
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão HD
+http://tv.factoryiptv.com:80/erick25/erick25/38640
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Anhanguera
+http://tv.factoryiptv.com:80/erick25/erick25/38966
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Bahia HD
+http://tv.factoryiptv.com:80/erick25/erick25/37096
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia FHD
+http://tv.factoryiptv.com:80/erick25/erick25/42987
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia HD
+http://tv.factoryiptv.com:80/erick25/erick25/41402
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília
+http://tv.factoryiptv.com:80/erick25/erick25/37095
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília HD
+http://tv.factoryiptv.com:80/erick25/erick25/40513
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Araraquara
+http://tv.factoryiptv.com:80/erick25/erick25/42950
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
+http://tv.factoryiptv.com:80/erick25/erick25/42951
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas FHD
+http://tv.factoryiptv.com:80/erick25/erick25/42983
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas HD
+http://tv.factoryiptv.com:80/erick25/erick25/42952
+
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão Preto
+http://tv.factoryiptv.com:80/erick25/erick25/42954
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Macapa HD
+http://tv.factoryiptv.com:80/erick25/erick25/63214
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Porto Velho HD
+http://tv.factoryiptv.com:80/erick25/erick25/63213
+
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Rio Branco HD
+http://tv.factoryiptv.com:80/erick25/erick25/63212
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="CANAIS ABERTOS",BAND FULLHD
+http://vipeiptv.com:25461/palmeiras/palmeiras/758324
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="CANAIS ABERTOS",BAND HD
+http://vipeiptv.com:25461/palmeiras/palmeiras/758323
+
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Padrinhos Magicos e Pica Pau 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62275
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pica Pau Tom e Jerry 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62276
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Diario de Um Vampiro 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62281
+
+EXTINF:-1 group-title="PROGRAMAS 24H",El Chapo 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62282
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Frequency 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62283
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Greys Anatomy 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62287
+
+EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62290
+
+EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 2 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62291
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Planeta Terra  24h
+http://tv.factoryiptv.com:80/erick25/erick25/62299
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Prison Break 5 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62304
+
+EXTINF:-1 group-title="PROGRAMAS 24H"Stranger Things 2 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62308
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Supernatural 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62309
+
+EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62310
+
+EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 2 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62311
+
+EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 3 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62312
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Apenas Um Show 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62538
+
+EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 3 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62698
+
+EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 4 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62699
+
+EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 5 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62700
+
+EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 6 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62701
+
+EXTINF:-1 group-title="PROGRAMAS 24H"American Horror 7 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62702
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Diarios de Um Vampiro 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62724
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 1 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62725
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 2 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62726
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 3 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62727
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 4 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62728
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 5 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62729
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 6 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62730
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 7 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62731
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 8 24h
+http://tv.factoryiptv.com:80/erick25/erick25/62732
+
+EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 1 TEMPORADA 24H
+http://tv.factoryiptv.com:80/erick25/erick25/62988
+
+EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 2 TEMPORADA 24H
+http://tv.factoryiptv.com:80/erick25/erick25/62989
+
+EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 3 TEMPORADA 24H
+http://tv.factoryiptv.com:80/erick25/erick25/62990
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Jack-Chan 24hs
+http://tv.factoryiptv.com:80/erick25/erick25/63197
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Mr.Bean 24HS
+http://tv.factoryiptv.com:80/erick25/erick25/63204
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pink e Cerebro 24HS
+http://tv.factoryiptv.com:80/erick25/erick25/63210
+
+EXTINF:-1 group-title="PROGRAMAS 24H",Pokemon 24HS
+http://tv.factoryiptv.com:80/erick25/erick25/63211
