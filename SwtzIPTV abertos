@@ -17,7 +17,7 @@ http://tv.factoryiptv.com:80/erick25/erick25/43430
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",TV CULTURA 
 https://nimbleserver.canais.ink/a/hls1/bobonordeste.m3u8?expires=1583989473&token=258f9fcc8bc76323dcdbe9c7c70cc56e
 
-EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",Cultura
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",Cultura
 http://tv.factoryiptv.com:80/erick25/erick25/40073
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="CANAIS ABERTOS",Cultura FHD
@@ -55,98 +55,96 @@ https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w783002532_b109
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1584043768/ei/mEJqXvK1DIijwQSB_KzoCA/ip/177.73.78.197/id/A-Fcy7uQ-mk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23842630/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRQIga3Q08QzRaIWB6FiwNAH9bAGc3114tJFzUMFZtV5RwPwCIQCIasZjQz4PgtV-UYm7abK8dqaJSTQGO1EJ3Petru2kBA%3D%3D/file/index.m3u8
 
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pegadinha Silvio Santos
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pegadinha Silvio Santos
 http://vipeiptv.com:25461/palmeiras/palmeiras/758585
 
-EXTINF:-1 group-title="PROGRAMAS 24H",To de Graça
+#EXTINF:-1 group-title="PROGRAMAS 24H",To de Graça
 http://vipeiptv.com:25461/palmeiras/palmeiras/758579
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Chaves
+#EXTINF:-1 group-title="PROGRAMAS 24H",Chaves
 http://vipeiptv.com:25461/palmeiras/palmeiras/758580
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 1
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 1
 http://vipeiptv.com:25461/palmeiras/palmeiras/758573
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 2
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 2
 http://vipeiptv.com:25461/palmeiras/palmeiras/758574
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 3
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 3
 http://vipeiptv.com:25461/palmeiras/palmeiras/758575
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 4
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 4
 http://vipeiptv.com:25461/palmeiras/palmeiras/758576
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 6
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pesadelo na Cozinha 6
 http://vipeiptv.com:25461/palmeiras/palmeiras/758578
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pronto Socorro Historia de Emergencia
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pronto Socorro Historia de Emergencia
 http://vipeiptv.com:25461/palmeiras/palmeiras/758582
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Vai que Cola
+#EXTINF:-1 group-title="PROGRAMAS 24H",Vai que Cola
 http://vipeiptv.com:25461/palmeiras/palmeiras/26590
 
-EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS
+#EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS
 http://vipeiptv.com:25461/palmeiras/palmeiras/26588
 
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS",Canal Brasil
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS",Canal Brasil
 http://tv.factoryiptv.com:80/erick25/erick25/37122
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Canal_Brasil_logo.svg/1200px-Canal_Brasil_logo.svg.png" group-title="CANAIS ABERTOS", Canal Brasil FHD
 http://tv.factoryiptv.com:80/erick25/erick25/41517
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo.png" group-title="CANAIS ABERTOS",Canção Nova HD
-http://tv.factoryiptv.com:80/erick25/erick25/37023
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
 http://tv.factoryiptv.com:80/erick25/erick25/40248
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão
 http://tv.factoryiptv.com:80/erick25/erick25/40514
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão HD
 http://tv.factoryiptv.com:80/erick25/erick25/38640
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Anhanguera
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Anhanguera
 http://tv.factoryiptv.com:80/erick25/erick25/38966
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Bahia HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Bahia HD
 http://tv.factoryiptv.com:80/erick25/erick25/37096
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia FHD
 http://tv.factoryiptv.com:80/erick25/erick25/42987
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Bahia HD
 http://tv.factoryiptv.com:80/erick25/erick25/41402
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília
 http://tv.factoryiptv.com:80/erick25/erick25/37095
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Brasília HD
 http://tv.factoryiptv.com:80/erick25/erick25/40513
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Araraquara
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Araraquara
 http://tv.factoryiptv.com:80/erick25/erick25/42950
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas
 http://tv.factoryiptv.com:80/erick25/erick25/42951
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas FHD
 http://tv.factoryiptv.com:80/erick25/erick25/42983
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Campinas HD
 http://tv.factoryiptv.com:80/erick25/erick25/42952
 
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão Preto
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Ribeirão Preto
 http://tv.factoryiptv.com:80/erick25/erick25/42954
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Macapa HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Macapa HD
 http://tv.factoryiptv.com:80/erick25/erick25/63214
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Porto Velho HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo Porto Velho HD
 http://tv.factoryiptv.com:80/erick25/erick25/63213
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Rio Branco HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSznN2MPGgxWfbC_klTq3_naPG_0mSX_lx8P2Z6-fQKKwMP23nt" group-title="CANAIS ABERTOS",Globo TV Rio Branco HD
 http://tv.factoryiptv.com:80/erick25/erick25/63212
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d672504a19871163093996d844d5195a.png" group-title="CANAIS ABERTOS",BAND FULLHD
@@ -156,118 +154,118 @@ http://vipeiptv.com:25461/palmeiras/palmeiras/758324
 http://vipeiptv.com:25461/palmeiras/palmeiras/758323
 
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Padrinhos Magicos e Pica Pau 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Padrinhos Magicos e Pica Pau 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62275
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pica Pau Tom e Jerry 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pica Pau Tom e Jerry 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62276
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Diario de Um Vampiro 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Diario de Um Vampiro 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62281
 
-EXTINF:-1 group-title="PROGRAMAS 24H",El Chapo 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",El Chapo 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62282
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Frequency 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Frequency 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62283
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Greys Anatomy 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Greys Anatomy 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62287
 
-EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62290
 
-EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 2 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",La Casa Papel 2 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62291
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Planeta Terra  24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Planeta Terra  24h
 http://tv.factoryiptv.com:80/erick25/erick25/62299
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Prison Break 5 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Prison Break 5 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62304
 
-EXTINF:-1 group-title="PROGRAMAS 24H"Stranger Things 2 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H"Stranger Things 2 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62308
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Supernatural 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Supernatural 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62309
 
-EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62310
 
-EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 2 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 2 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62311
 
-EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 3 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",The Big Bang Theory 3 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62312
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Apenas Um Show 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Apenas Um Show 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62538
 
-EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 3 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 3 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62698
 
-EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 4 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 4 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62699
 
-EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 5 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 5 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62700
 
-EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 6 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",American Horror 6 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62701
 
-EXTINF:-1 group-title="PROGRAMAS 24H"American Horror 7 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H"American Horror 7 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62702
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Diarios de Um Vampiro 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Diarios de Um Vampiro 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62724
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 1 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 1 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62725
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 2 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 2 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62726
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 3 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 3 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62727
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 4 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 4 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62728
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 5 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 5 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62729
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 6 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 6 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62730
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 7 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 7 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62731
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 8 24h
+#EXTINF:-1 group-title="PROGRAMAS 24H",Doctor Who 8 24h
 http://tv.factoryiptv.com:80/erick25/erick25/62732
 
-EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 1 TEMPORADA 24H
+#EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 1 TEMPORADA 24H
 http://tv.factoryiptv.com:80/erick25/erick25/62988
 
-EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 2 TEMPORADA 24H
+#EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 2 TEMPORADA 24H
 http://tv.factoryiptv.com:80/erick25/erick25/62989
 
-EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 3 TEMPORADA 24H
+#EXTINF:-1 group-title="PROGRAMAS 24H",EU A PATROA E AS CRIANÇAS 3 TEMPORADA 24H
 http://tv.factoryiptv.com:80/erick25/erick25/62990
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Jack-Chan 24hs
+#EXTINF:-1 group-title="PROGRAMAS 24H",Jack-Chan 24hs
 http://tv.factoryiptv.com:80/erick25/erick25/63197
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Mr.Bean 24HS
+#EXTINF:-1 group-title="PROGRAMAS 24H",Mr.Bean 24HS
 http://tv.factoryiptv.com:80/erick25/erick25/63204
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pink e Cerebro 24HS
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pink e Cerebro 24HS
 http://tv.factoryiptv.com:80/erick25/erick25/63210
 
-EXTINF:-1 group-title="PROGRAMAS 24H",Pokemon 24HS
+#EXTINF:-1 group-title="PROGRAMAS 24H",Pokemon 24HS
 http://tv.factoryiptv.com:80/erick25/erick25/63211
 
-EXTINF:-1 group-title="Series | The Walking Dead",The Walking Dead S06 S06E09
+#EXTINF:-1 group-title="Series | The Walking Dead",The Walking Dead S06 S06E09
 http://tv.factoryiptv.com:80/series/erick25/erick25/53172.mp4
 #EXTINF:-1 group-title="Series | The Walking Dead",The Walking Dead S06 S06E10
 http://tv.factoryiptv.com:80/series/erick25/erick25/53173.mp4
